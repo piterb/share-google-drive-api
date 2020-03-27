@@ -1,0 +1,26 @@
+{
+  "name": "google-drive-api",
+  "version": "1.0.0",
+  "description": "API for accessing Google Drive resources",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piterb/share-google-drive-api.git"
+  },
+  "keywords": [
+    "google",
+    "drive"
+  ],
+  "author": "Peter Bodi <peto.bodi@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/piterb/share-google-drive-api/issues"
+  },
+  "homepage": "https://github.com/piterb/share-google-drive-api#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "axios-logger": "^2.3.1",
+    "google-auth-library": "^6.0.0"
+  }
+}
